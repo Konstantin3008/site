@@ -156,7 +156,9 @@
 	     
 	    		?>
          <footer>
-             
+             <p> Изменение для гида</p>
+             фываыва
+             <p>Еще одно изменение для гида</p>
              <div id="site_name">
                  <span> Audri</span>  
                  <div id="clear"> </div>
